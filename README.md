@@ -72,5 +72,5 @@ Linking test: 100%|████████████████████�
 
 ```bash
 # upload to huggingface
-hf upload bdanko/how2sign /mnt/c/Users/bence/Downloads/How2Sign/hf_ready --repo-type dataset
+hf upload-large-folder bdanko/how2sign /mnt/c/Users/bence/Downloads/How2Sign/hf_ready --repo-type dataset
 ```
