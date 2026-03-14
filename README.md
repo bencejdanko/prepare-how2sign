@@ -55,5 +55,5 @@ python3 prepare.py
 
 ```bash
 # upload to huggingface
-huggingface-cli upload bdanko/how2sign /mnt/c/Users/bence/Downloads/How2Sign/hf_tar_shards --repo-type dataset
+hf upload bdanko/how2sign /mnt/c/Users/bence/Downloads/How2Sign/hf_tar_shards --repo-type dataset
 ```
